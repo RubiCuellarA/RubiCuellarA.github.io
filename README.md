@@ -1,2 +1,2 @@
 # RubiCuellarA.github.io
-proyecto en git pages
+Proyectos Certus publicados en GitHub Pages.
